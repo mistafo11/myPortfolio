@@ -1,7 +1,3 @@
-#### Electrical & Electroncis Engineering Graduate | AI Engineer  
-
- 
-
 ## 🚀 About Me  
 
 <p style="text-align: justify;">
@@ -46,25 +42,22 @@
 
 ### 🔹 Enhanced Hearing Aid System for Clear Audio Perception with Deep Neural Networks (DNNs)  
 
-- Achieved 96% accuracy in audio classification by fine-tuning YAMNet on the Microsoft Scalable Noisy Speech Dataset (MS-SNSD).
+- Achieved **96% accuracy** in audio classification by fine-tuning **YAMNet** on the Microsoft Scalable Noisy Speech Dataset (MS-SNSD).
 - Applied Digital Signal Processing techniques such as audio amplifiers and filters to enhance audio perception.
-- Deployed the model on Raspberry Pi 3B+ with TensorFlow Lite, optimizing latency and size by 75% for edge computing.  
-
+- Deployed the model on Raspberry Pi 3B+ with **TensorFlow Lite**, optimizing latency and size **by 75%** for edge computing.  
 
 
 ### 🔹 Cyclistic: Bike-Share Analysis  
 
-- Analyzed bike-share data to identify a 10% higher weekend ridership among casual users.
-- Identified 2.13 times more usage on classic bikes than electric ones.
+- Analyzed bike-share data to identify a **10% higher** weekend ridership among casual users.
+- Identified **2.13 times** more usage on classic bikes than electric ones.
 - Created an interactive Tableau dashboard to visualize user behaviour trends, adopted by the team for stakeholder presentations.  
-
  
 
-### 🔹 IoT & Smart Metering Solutions  
+### 🔹 Exploratory Data Analysis on the Fuel Consumption Ratings dataset  
 
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
+- Conducted EDA on more than 800 vehicle records to reveal relations about fuel consumption.
+- Identified a strong positive correlation **(r > 0.85)** between fuel consumption and combustion rate (L/100km), using correlation matrices and scatter plots. 
 
  <br>
 
