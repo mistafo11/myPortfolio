@@ -16,9 +16,7 @@
 
 - **Data Science & Analytics:** Python, SQL, Tableau
 
-![Skill Logos](/assets/img/tensorflow_logo.png)
-
-![Skill Logos](/assets/img/python_logo.png)
+![Skill Logos](/assets/img/tensorflow_logo.png)    ![Skill Logos](/assets/img/python_logo.png)
 
  <br>
 
