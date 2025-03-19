@@ -8,7 +8,13 @@
 
 ## 🚀 About Me  
 
-I'm an **Electrical & Electronics Engineer** with a passion for AI and Data Science. I enjoy exploring machine learning and data analytics using languages like Python, C, R, and Assembly, and I've earned certifications in **Data Analytics** and **Deep Learning**. I'm always excited to learn about new AI trends and use data to solve real-world problems.
+<p style="text-align: justify;">
+    I'm an <strong>Electrical & Electronics Engineer</strong> with a passion for AI and Data Science. 
+    I enjoy exploring machine learning and data analytics using languages like Python, C, R, and Assembly, 
+    and I've earned certifications in <strong>Data Analytics</strong> and <strong>Deep Learning</strong>. 
+    I'm always excited to learn about new AI trends and use data to solve real-world problems.
+</p>
+
 
  
 
@@ -30,43 +36,22 @@ I'm an **Electrical & Electronics Engineer** with a passion for AI and Data Scie
 
 ## 💼 Work Experience  
 
-### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
+### **UPS Design Engineer Intern @ Gutor (07/2024 - 09/2024)**  
 
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
-
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
-
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
-
- 
-
-### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
-
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
-
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
-
- 
-
-### **Consultancy & Industry Projects**  
-
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
-
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
-
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
-
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
+- Prepared visualizations about the different types of magnetic parts used in the systems. 
+- Prepared drawings utilizing different tools to achieve precise drawings on MS Visio and Excel.
+- Calculated the needed battery cable sizes considering different values such as load voltage, ambient temperature and distance from the battery to the UPS system.
+- Collaborated on ISO-standard project documentation and implemented edits based on client feedback, enhancing overall project accuracy and satisfaction.
 
  
 
 ## 📂 Projects  
 
-### 🔹 AI-Based Renewable Energy Forecasting  
+### 🔹 Enhanced Hearing Aid System for Clear Audio Perception with Deep Neural Networks (DNNs)  
 
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
-
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
+- Achieved 96% accuracy in audio classification by fine-tuning YAMNet on the Microsoft Scalable Noisy Speech Dataset (MS-SNSD).
+- Applied Digital Signal Processing techniques such as audio amplifiers and filters to enhance audio perception.
+- Deployed the model on Raspberry Pi 3B+ with TensorFlow Lite, optimizing latency and size by 75% for edge computing.  
 
  
 
