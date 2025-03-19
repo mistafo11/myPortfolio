@@ -1,7 +1,3 @@
-# Mohamed Elmustafa GarElnabi  
-
- 
-
 #### Electrical & Electroncis Engineering Graduate | AI Engineer  
 
  
@@ -16,7 +12,7 @@
 </p>
 
 
- 
+ <br>
 
 ## 🛠 Technical Skills  
 
@@ -24,7 +20,7 @@
 
 - **Data Science & Analytics:** Python, SQL, Tableau  
 
- 
+ <br>
 
 ## 🎓 Education  
 
@@ -32,7 +28,8 @@
   - CGPA: 3.86 / 4.00.
   - 7 Dean’s List of Academic Excellence.
   - Relevant Coursework: Artificial Intelligence & Neural-Fuzzy Systems, Data Analytics for Engineers, Digital Signal Processing, Microprocessor Systems, Digital Logic Design, VLSI Design, Image Processing.
- 
+
+<br>
 
 ## 💼 Work Experience  
 
@@ -43,7 +40,7 @@
 - Calculated the needed battery cable sizes considering different values such as load voltage, ambient temperature and distance from the battery to the UPS system.
 - Collaborated on ISO-standard project documentation and implemented edits based on client feedback, enhancing overall project accuracy and satisfaction.
 
- 
+ <br>
 
 ## 📂 Projects  
 
@@ -53,13 +50,13 @@
 - Applied Digital Signal Processing techniques such as audio amplifiers and filters to enhance audio perception.
 - Deployed the model on Raspberry Pi 3B+ with TensorFlow Lite, optimizing latency and size by 75% for edge computing.  
 
- 
 
-### 🔹 AI-Powered Smart Grid Analytics  
 
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
+### 🔹 Cyclistic: Bike-Share Analysis  
 
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
+- Analyzed bike-share data to identify a 10% higher weekend ridership among casual users.
+- Identified 2.13 times more usage on classic bikes than electric ones.
+- Created an interactive Tableau dashboard to visualize user behaviour trends, adopted by the team for stakeholder presentations.  
 
  
 
@@ -69,7 +66,7 @@
 
 - Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
 
- 
+ <br>
 
 ## 🎤 Talks & Workshops  
 
@@ -79,17 +76,7 @@
 
 - **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
 
- 
-
-## 🏆 Publications & Research  
-
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
-
- 
+ <br>
 
 ## 🏅 Certifications & Professional Memberships  
 
@@ -103,7 +90,7 @@
 
 - **Industrial IoT (IIoT) Developer**  
 
- 
+ <br>
 
 ## 📢 Connect with Me  
 
