@@ -44,14 +44,14 @@
 
 ## 📂 Projects  
 
-### 🔹 Enhanced Hearing Aid System for Clear Audio Perception with Deep Neural Networks (DNNs)  
+### 🔹 [Enhanced Hearing Aid System for Clear Audio Perception with Deep Neural Networks (DNNs)](https://github.com/mistafo11/HearingAidSystem)
 
 - Achieved **96% accuracy** in audio classification by fine-tuning **YAMNet** on the Microsoft Scalable Noisy Speech Dataset (MS-SNSD).
 - Applied Digital Signal Processing techniques such as audio amplifiers and filters to enhance audio perception.
 - Deployed the model on Raspberry Pi 3B+ with **TensorFlow Lite**, optimizing latency and size **by 75%** for edge computing.  
 
 
-### 🔹 Cyclistic: Bike-Share Analysis  
+### 🔹 [Cyclistic: Bike-Share Analysis](https://public.tableau.com/views/CyclisticCaseStudy_17265856874910/AnnualVs_CasualRidersonCyclisticJune2024?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 - Analyzed bike-share data to identify a **10% higher** weekend ridership among casual users.
 - Identified **2.13 times** more usage on classic bikes than electric ones.
@@ -67,13 +67,13 @@
 
 ## 🏅 Certifications 
 
-- **Deep Learning Specialization** - DeepLearning.AI
+- [**Deep Learning Specialization** - DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/KMNN9LMUAA0C)
 
 - **Data Analytics and Visualization Job Simulation** - Accenture
 
 - **CS50’s introduction to Programming with R** - Harvardx
 
-- **Data Analytics Professional Certificate** - Google 
+- [**Data Analytics Professional Certificate** - Google](https://coursera.org/verify/professional-cert/QMJFHH7L3VKC) 
 
  <br>
 
