@@ -18,7 +18,7 @@
 
 - **Tools & Platforms:** MS Office, Jupyter Notebook, Google Colab, GCP.
 
-![Skill Logos](/assets/img/tensorflow_logo.png   ![Skill Logos](/assets/img/python_logo.png) ![Skill Logos](/assets/img/GCP_logo.png)
+![Skill Logos](/assets/img/tensorflow_logo.png)     ![Skill Logos](/assets/img/python_logo.png)        ![Skill Logos](/assets/img/GCP_logo.png)
 
  <br>
 
