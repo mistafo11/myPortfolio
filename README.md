@@ -79,9 +79,9 @@
 
 ## 📢 Connect with Me  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
+🔗 [LinkedIn](https://linkedin.com/in/mohamed-elmustafa-garelnabi-681535243/)  
 
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
+📺 [Kaggle](https://kaggle.com/elmustafagarelnabi)  
 
 
  [![Watch the video](https://img.youtube.com/vi/nIoASbvVcPg/maxresdefault.jpg)](https://youtu.be/nIoASbvVcPg)
