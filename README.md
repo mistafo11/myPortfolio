@@ -14,7 +14,11 @@
 
 - **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
 
-- **Data Science & Analytics:** Python, SQL, Tableau  
+- **Data Science & Analytics:** Python, SQL, Tableau
+
+![Skill Logos](/assets/img/tensorflow_logo.png)
+
+![Skill Logos](/assets/img/python_logo.png)
 
  <br>
 
@@ -61,27 +65,15 @@
 
  <br>
 
-## 🎤 Talks & Workshops  
+## 🏅 Certifications 
 
-- **AI in Energy Analytics** - UNITEN Industry Forum  
+- **Deep Learning Specialization** - DeepLearning.AI
 
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
+- **Data Analytics and Visualization Job Simulation** - Accenture
 
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
+- **CS50’s introduction to Programming with R** - Harvardx
 
- <br>
-
-## 🏅 Certifications & Professional Memberships  
-
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-
-- **Certified Python Programmer for Data Science**  
-
-- **Certified Cybersecurity Specialist**  
-
-- **Industrial IoT (IIoT) Developer**  
+- **Data Analytics Professional Certificate** - Google 
 
  <br>
 
@@ -91,7 +83,10 @@
 
 📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
 
- 
+
+ [![Watch the video](https://img.youtube.com/vi/nIoASbvVcPg/maxresdefault.jpg)](https://youtu.be/nIoASbvVcPg)
+
+### [CS50R Project](https://youtu.be/nIoASbvVcPg)
 
 ---
 
